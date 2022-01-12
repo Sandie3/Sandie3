@@ -40,7 +40,7 @@ Those include backend & game development.
 
 <br />
 <br />
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandie3&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
