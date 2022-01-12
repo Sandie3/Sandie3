@@ -9,6 +9,12 @@ Those include backend & game development.
 </a>
 
 <br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
 
 ### The languages & tools I know and use:
 
@@ -37,15 +43,6 @@ Those include backend & game development.
 [<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />][nginx]
 [<img align="left" alt="Json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
 [<img align="left" alt="Postman" width="26px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" />][postman]
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandie3&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [code]: https://code.visualstudio.com
 [react]: https://reactjs.org/
