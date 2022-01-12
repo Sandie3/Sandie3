@@ -1,6 +1,6 @@
-### Hi my name is Sander.
+# Hi my name is Sander.
 
-## I'm a Frontend Web Developer student from Denmark.
+### I'm a Frontend Web Developer student from Denmark.
 I have many interests aside from frontend development. 
 Those include backend & game development.
 
@@ -8,7 +8,7 @@ Those include backend & game development.
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-# The languages & tools I know and use:
+### The languages & tools I know and use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
