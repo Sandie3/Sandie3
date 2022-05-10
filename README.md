@@ -39,7 +39,7 @@ Those include backend & game development.
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />][unity]
 [<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />][nginx]
 [<img align="left" alt="Json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
-[<img align="left" alt="Postman" width="26px" src="https://www.postman.com/_mk-www-v6.105.0/assets/logos/postman-logo-stacked.svg" />][postman]
+[<img align="left" alt="Postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />][postman]
 
 [code]: https://code.visualstudio.com
 [react]: https://reactjs.org/
