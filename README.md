@@ -13,7 +13,7 @@ Those include backend & game development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandie3&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandie3&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&theme=dracula)
 
 ### The languages & tools I know and use:
 
