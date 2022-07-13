@@ -5,7 +5,7 @@ I have many interests aside from frontend development.
 Those include backend & game development.
 
 <a href="https://www.linkedin.com/in/munkhsen">
-<img align="left" alt="developer" width="22px" style="color:#FFFFFF;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
@@ -13,7 +13,7 @@ Those include backend & game development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandie3&count_private=true&show_icons=true&theme=dracula)
 
 ### The languages & tools I know and use:
 
