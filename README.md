@@ -5,13 +5,15 @@ I have many interests aside from frontend development.
 Those include backend & game development.
 
 <a href="https://www.linkedin.com/in/munkhsen">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="developer" width="22px" style="color:#FFFFFF;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)
 
 ### The languages & tools I know and use:
 
@@ -40,6 +42,8 @@ Those include backend & game development.
 [<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />][nginx]
 [<img align="left" alt="Json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
 [<img align="left" alt="Postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />][postman]
+
+
 
 [code]: https://code.visualstudio.com
 [react]: https://reactjs.org/
